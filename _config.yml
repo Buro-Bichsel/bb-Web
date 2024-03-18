@@ -4,4 +4,6 @@ description: "Büro Bichsel: Projekt für ein mobiles Museum"
 baseurl: ""
 host: 0.0.0.0
 url: "https://www.buero-bichsel.ch"
+sass:
+    sass_dir: assets/sass
 source: .
