@@ -5,12 +5,21 @@
     <title>{{ page.title }}</title>
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <link rel="stylesheet" href="assets/sass/main.css">
-    <link rel="stylesheet" href="assets/css/style.css">
   </head>
   <body>
     <section>
-      <h1>{{ page.title }}</h1>
+      <h1>{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
       {{ content }}
     </section>
+    <footer>
+      <div class="footer-container">
+        <div class="left">
+          {{ page.footer_left | markdownify }}
+        </div>
+        <div class="right">
+          {{ page.footer_right | markdownify }}
+        </div>
+      </div>
+    </footer>
   </body>
 </html>
