@@ -49,8 +49,7 @@ An der Schaalgasse 4 in der Solothurner Innenstadt entsteht das reale Büro Bich
 
 ## Wie können Sie sich am Büro Bichsel beteiligen? 
 
-Das Büro Bichsel lädt alle Interessierten und Freunde von Bichsels Werk ein, Mitglied im Verein zu werden und so nach Kräften das noch junge Unternehmen zu unterstützen. Die Jahresmitgliedschaft beträgt **CHF 50.-**; auch Gönnerschaften sind gerne willkommen auf das Konto IBAN: CH54 0833 4522 6576 8200 1.
-Mitglieder erhalten beispielsweise eine Einladung zum Eröffnungsfest. 
+Das Büro Bichsel lädt alle Interessierten und Freunde von Bichsels Werk ein, Mitglied im Verein zu werden und so nach Kräften das noch junge Unternehmen zu unterstützen. Die Jahresmitgliedschaft beträgt CHF 50.-; auch Gönnerschaften sind gerne willkommen auf das Konto IBAN: CH54 0833 4522 6576 8200 1. Mitglieder erhalten beispielsweise eine Einladung zum Eröffnungsfest. 
 Wer sich darüber hinaus für ein Mitdenken und Mitwirken bspw. im Büro Bichsel an der Schaalgasse interessiert, sei herzlich eingeladen, sich bei [Beat Mazenauer](mailto:mail@beatmazenauer.ch) oder [Franco Supino](mailto:mail@francosupino.ch) zu melden.
 
 ## Wer ist das Büro Bichsel?
@@ -62,6 +61,3 @@ Hinter dem Projekt steht ein neu gegründeter Verein, dessen Vorstand sich wie f
 - Christine Tresch (Aktuarin)
 - Andreas Mauz, Rudolf Probst (wissenschaftliche Experten)
 - Nora Bichsel
-
-Der Verein steht offen für alle Interessierten: die Jahresmitgliedschaft beträgt CHF 50.-; auch Gönnerschaften sind gerne willkommen. 
-Wer sich darüber hinaus für ein Mitdenken und Mitwirken interessiert, sei herzlich eingeladen, sich bei [Beat Mazenauer](mailto:mail@beatmazenauer.ch) zu melden. 
