@@ -16,19 +16,20 @@ footer_right: |
   IBAN: CH54 0833 4522 6576 8200 1
 
 ---
-## Das Projekt nimmt Form an
-
-Vorinformation
 
 > «Es gibt einen Verein namens Büro Bichsel, was die genau machen, weiss ich nicht. Aber es sind gute Leute, sie dürfen.»
 > 
 > (Peter Bichsel in der NZZ am Sonntag, 19.1.2025)
 
+## Vorinformation
+
+Das Projekt nimmt Form an:
+
 Vor beinahe neun Monaten haben wir in Solothurn den Verein Büro Bichsel aus der Taufe gehoben, mit dem Ziel, ein mobiles, modulares Bichsel-Museum zu eröffnen. Das Projekt ist bald soweit, dass es mit zwei thematischen Modulen und einer grossen Feier eröffnet werden kann. 
 
-- 5. März 2025, 16 Uhr: Vernissage des Moduls «Schule weiter denken mit Peter Bichsel» in der Bibliothek der Pädagogischen Hochschule Solothurn.
-- 20. März 2025, 16 Uhr: Vernissage des Moduls «Demokratie weiter denken mit Peter Bichsel», in der Zentralbibliothek Solothurn. 
-- 24. März 2025, 17:30 Uhr: Feierliche Eröffnung des Büro Bichsel, anschliessend 18 Uhr  Apero im Saal des Restaurant Kreuz für Interessierte, Mitglieder, Freund:innen.
+- 5\. März 2025, 16 Uhr: Vernissage des Moduls «Schule weiter denken mit Peter Bichsel» in der Bibliothek der Pädagogischen Hochschule Solothurn.
+- 20\. März 2025, 16 Uhr: Vernissage des Moduls «Demokratie weiter denken mit Peter Bichsel», in der Zentralbibliothek Solothurn. 
+- 24\. März 2025, 17:30 Uhr: Feierliche Eröffnung des Büro Bichsel, anschliessend 18 Uhr  Apero im Saal des Restaurant Kreuz für Interessierte, Mitglieder, Freund:innen.
 
 ## Was ist das Büro Bichsel?
 Das Büro Bichsel steht für ein dreiteiliges Projekt, das auch einem mobilen Museum, einem Lese- und Arbeitsraum in Solothurn sowie einer Website besteht, auf der nach und nach ein «Universum Bichsel» entsteht. 
@@ -59,6 +60,7 @@ Hinter dem Projekt steht ein neu gegründeter Verein, dessen Vorstand sich wie f
 - Franco Supino (Vize-Präsident, Kassier)
 - Christine Tresch (Aktuarin)
 - Andreas Mauz, Rudolf Probst (wissenschaftliche Experten)
+- Nora Bichsel
 
 Der Verein steht offen für alle Interessierten: die Jahresmitgliedschaft beträgt CHF 50.-; auch Gönnerschaften sind gerne willkommen. 
 Wer sich darüber hinaus für ein Mitdenken und Mitwirken interessiert, sei herzlich eingeladen, sich bei [Beat Mazenauer](mailto:mail@beatmazenauer.ch) zu melden. 
