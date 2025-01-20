@@ -17,7 +17,8 @@ footer_right: |
 
 ---
 
-> «Es gibt einen Verein namens Büro Bichsel, was die genau machen, weiss ich nicht. Aber es sind gute Leute, sie dürfen.»
+> «Es gibt einen Verein namens Büro Bichsel, was die genau machen, weiss ich nicht.
+> Aber es sind gute Leute, sie dürfen.»
 > 
 > (Peter Bichsel in der NZZ am Sonntag, 19.1.2025)
 
