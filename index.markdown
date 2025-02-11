@@ -29,7 +29,7 @@ Das Projekt nimmt Form an:
 Vor beinahe neun Monaten haben wir in Solothurn den Verein Büro Bichsel aus der Taufe gehoben, mit dem Ziel, ein mobiles, modulares Bichsel-Museum zu eröffnen. Das Projekt ist bald soweit, dass es mit zwei thematischen Modulen und einer grossen Feier eröffnet werden kann. 
 
 - 5\. März 2025, 16 Uhr: Vernissage des Moduls «Schule weiter denken mit Peter Bichsel» in der Bibliothek der Pädagogischen Hochschule Solothurn.
-- 20\. März 2025, 16 Uhr: Vernissage des Moduls «Demokratie weiter denken mit Peter Bichsel», in der Zentralbibliothek Solothurn. 
+- 20\. März 2025, 19 Uhr: Vernissage des Moduls «Demokratie weiter denken mit Peter Bichsel», in der Zentralbibliothek Solothurn. 
 - 24\. März 2025, 17:30 Uhr: Feierliche Eröffnung des Büro Bichsel, anschliessend 18 Uhr  Apero im Saal des Restaurant Kreuz für Interessierte, Mitglieder, Freund:innen.
 
 ## Was ist das Büro Bichsel?
